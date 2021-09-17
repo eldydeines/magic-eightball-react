@@ -1,0 +1,61 @@
+
+.initial {
+ 
+    background-color:black;
+    border:1px solid white;    
+    height:200px;
+    border-radius:50%;
+    width:200px;
+    text-align: center;
+    color: white;
+   
+}
+
+.green-message {
+ 
+    background-color:green;
+    border: 1px solid black;   
+    height: 200px;
+    border-radius:50%;
+    width:200px;
+    text-align: center;
+    color: black;
+  
+}
+
+.red-message {
+ 
+    background-color:red;
+    border: 1px solid black;   
+    height: 200px;
+    border-radius:50%;
+    width:200px;
+    text-align: center;
+    color: black;
+    
+}
+
+.gold-message {
+ 
+    background-color:goldenrod;
+    border: 1px solid black;   
+    height: 200px;
+    border-radius:50%;
+    width:200px;
+    text-align: center;
+    color: black;
+
+}
+
+.text-message {
+
+  text-align:center;
+  padding: 50px;
+
+}
+
+button {
+    margin: 15px;
+    padding: 5px;
+
+}
